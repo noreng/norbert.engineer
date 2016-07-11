@@ -1,0 +1,25 @@
+{
+  "name": "norbert.engineer",
+  "version": "1.0.0",
+  "description": "Trust me, I'm an engineer!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noreng/norbert.engineer.git"
+  },
+  "author": "Norbert Pozsonyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noreng/norbert.engineer/issues"
+  },
+  "homepage": "https://github.com/noreng/norbert.engineer#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "4.4.3"
+  }
+}
